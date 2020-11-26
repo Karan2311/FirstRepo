@@ -1,8 +1,9 @@
 Here is a list of Python libraries
 
 Numpy
-
+Plotly
 Seaborn
 Scipy
 Scikit-learn
 Bokeh
+Matplotlib
