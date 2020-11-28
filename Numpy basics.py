@@ -9,6 +9,7 @@ list1 = [0,1,2,3,4]
 arr1d = np.array(list1)
 print (type(arr1d))
 arr1d
+print(arr1d)
 
 
 # In[2]:
