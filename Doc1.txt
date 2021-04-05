@@ -1,0 +1,7 @@
+Test Document for Git
+1. To learn using git
+2. To use git bash
+3. To make Github repo
+4. Push,pull,merge,commit,branch
+5. Adding this new line
+6. Adding one more line
